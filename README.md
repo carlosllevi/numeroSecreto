@@ -28,4 +28,4 @@ Este projeto foi desenvolvido com foco no aprendizado dos seguintes conceitos:
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/carlosllevi/numeroSecreto.git
+https://github.com/carlosllevi/numeroSecreto.git
