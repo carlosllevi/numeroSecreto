@@ -1,3 +1,6 @@
+![Capa do projeto](./capa.png)
+
+
 # Jogo do Número Secreto
 
 Um projeto simples feito com JavaScript e HTML para praticar lógica de programação, entrada de dados e controle de fluxo.
