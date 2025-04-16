@@ -23,9 +23,3 @@ Este projeto foi desenvolvido com foco no aprendizado dos seguintes conceitos:
 - Laços de repetição (`while`, `for`)
 - Condicionais (`if`, `else`)
 - Manipulação básica de HTML com JavaScript
-
-## Como executar
-
-1. Clone este repositório:
-```bash
-https://github.com/carlosllevi/numeroSecreto.git
